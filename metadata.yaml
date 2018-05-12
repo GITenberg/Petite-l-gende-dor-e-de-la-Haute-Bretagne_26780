@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32237'
     url: http://www.gutenberg.org/2009/agents/32237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26780#Petite-l-gende-dor-e-de-la-Haute-Bretagne
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2008-10-05'
 gutenberg_type: Text
